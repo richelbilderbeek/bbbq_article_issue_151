@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+jt_info.txt
+UP000005640_9606.fasta
+*.topo
